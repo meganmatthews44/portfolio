@@ -17,21 +17,20 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "megan",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Full Stack Developer",
     //Line 2 For Header
-    "products, brands,",
     //Line 3 For Header
-    "and experience",
+    
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "I am a software developer with a background in sales and account management. I am motivated by making my clients’ jobs easier by creating automated processes to help them build out marketing software initiatives for customer acquisition and retention.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "meganmatthews44@gmail.com",
 
   // End Header Details -----------------------
 
