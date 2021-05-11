@@ -173,14 +173,14 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "" },
+    { img: githubIcon, url: "/" },
     {
       img: codepenIcon,
       url: "https://www.codepen.com/",
     },
     {
       img: dribbbleIcon,
-      url: "",
+      url: "/",
     },
     {
       img: instagramIcon,
