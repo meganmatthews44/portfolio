@@ -118,7 +118,7 @@ export default {
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:
-    "https://i.imgur.com/dWX9FrYl.jpg",
+    "https://i.imgur.com/9mSa8nVl.jpg",
 
   //   End About Section ---------------------
 
