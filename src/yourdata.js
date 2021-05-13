@@ -112,11 +112,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    'I have a background in automobile and technology sales, as well as account management experience for a SaaS company. I have always enjoyed problem solving and helping customers get to the root of their issues, and I thought, "I could really enjoy making a career out of making things work better for people!" ',
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I joined Generaly Assembly's Software Engineering Immersive in November 2020 and spent six months not only learning how to code, but how to think like a programmer. I thourougly enjoy a challenge and watching what I create come to life on a screen.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "I look forward to taking the soft skills I have learned in sales and account management like communication, empathy, adaptability, crital thinking and creativity and pairing them with the coding skills I have learned to be a fully rounded software engineer.",
   aboutImage:
     "https://i.imgur.com/9mSa8nVl.jpg",
 
@@ -170,17 +170,13 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Let's work together",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "/" },
     {
       img: codepenIcon,
       url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "/",
     },
     {
       img: instagramIcon,
