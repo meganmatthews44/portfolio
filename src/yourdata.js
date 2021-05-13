@@ -6,6 +6,8 @@ import jsIcon from "./images/javascript.svg"
 import nodeIcon from "./images/node.svg"
 import djangoIcon from "./images/django.svg"
 import pythonIcon from "./images/python.svg"
+import postgresqlIcon from "./images/postgresql.svg"
+import mongoIcon from "./images/mongodb.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -162,6 +164,21 @@ export default {
       para:
         "django",
     },
+    {
+      img: postgresqlIcon,
+      para:
+        "PostgreSQL",
+    },
+    {
+      img: mongoIcon,
+      para:
+        "MongoDB",
+    },
+    {
+      img: githubIcon,
+      para:
+        "GitHub",
+    },
   ],
 
   // End Skills Section --------------------------
@@ -178,11 +195,8 @@ export default {
   contactSubHeading: "Let's work together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "/" },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    { img: githubIcon, url: "https://github.com/meganmatthews44" },
+
   ],
 
   // End Contact Section ---------------
