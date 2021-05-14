@@ -9,10 +9,10 @@ import pythonIcon from "./images/python.svg"
 import postgresqlIcon from "./images/postgresql.svg"
 import mongoIcon from "./images/mongodb.svg"
 
+
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import instagramIcon from "./images/instagram.svg"
+import linkedinIcon from "./images/linkedin.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -196,7 +196,7 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/meganmatthews44" },
-
+    { img: linkedinIcon, url: "https://www.linkedin.com/in/meganmatthews44/" },
   ],
 
   // End Contact Section ---------------
