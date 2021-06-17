@@ -9,10 +9,10 @@ import pythonIcon from "./images/python.svg"
 import postgresqlIcon from "./images/postgresql.svg"
 import mongoIcon from "./images/mongodb.svg"
 
+
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import instagramIcon from "./images/instagram.svg"
+import linkedinIcon from "./images/linkedin.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -41,7 +41,7 @@ export default {
     {
       title: "Lakeview Coffee Shops", //Project Title - Add Your Project Title Here
       para:
-        "Full CRUD application for reviewing local coffee shops. Built with Express, Node, Javascript, CSS, HTML, EJS, Atlat MongoDB, and Google oAuth. Deployed with Heroku.", // Add Your Service Type Here
+        "Full CRUD application for reviewing local coffee shops. Built with Express, Node, Javascript, CSS, HTML, EJS, MongoDB Atlas, and Google oAuth. Deployed with Heroku.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/3hd38iUl.jpg",
@@ -78,7 +78,7 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://flexipes.herokuapp.com/",
     },
-    {
+   /*  {
       title: "Project Five", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
@@ -97,7 +97,7 @@ export default {
         "",
       //Project URL - Add Your Project Url Here
       url: "",
-    },
+    }, */
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -116,9 +116,9 @@ export default {
   aboutParaOne:
     'I have a background in automobile and technology sales, as well as account management experience for a SaaS company. I have always enjoyed problem solving and helping customers get to the root of their issues, and I thought, "I could really enjoy making a career out of making things work better for people!" ',
   aboutParaTwo:
-    "I joined Generaly Assembly's Software Engineering Immersive in November 2020 and spent six months not only learning how to code, but how to think like a programmer. I thourougly enjoy a challenge and watching what I create come to life on a screen.",
+    "I joined General Assembly's Software Engineering Immersive in November 2020 and spent six months not only learning how to code, but how to think like a programmer. I thoroughly enjoy a challenge and watching what I create come to life on a screen.",
   aboutParaThree:
-    "I look forward to taking the soft skills I have learned in sales and account management like communication, empathy, adaptability, crital thinking and creativity and pairing them with the coding skills I have learned to be a fully rounded software engineer.",
+    "I look forward to taking the soft skills I have learned in sales and account management like communication, empathy, adaptability, critical thinking and creativity and pairing them with the coding skills I have learned to be a fully rounded software engineer.",
   aboutImage:
     "https://i.imgur.com/9mSa8nVl.jpg",
 
@@ -196,7 +196,7 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/meganmatthews44" },
-
+    { img: linkedinIcon, url: "https://www.linkedin.com/in/meganmatthews44/" },
   ],
 
   // End Contact Section ---------------

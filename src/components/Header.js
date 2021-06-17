@@ -49,6 +49,14 @@ const Header = () => {
             >
               CONNECT WITH ME
             </a>
+            <a
+              target="_blank"
+              href={"https://www.linkedin.com/in/meganmatthews44/"}
+              className="primary-btn"
+            >
+              VIEW LINKEDIN PROFILE
+            </a>
+
           </Fade>
         </div>
       </div>
